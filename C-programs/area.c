@@ -2,7 +2,7 @@
 
 int main() {
     int l,w;
-    printf("Enter length of Rec\n");
+    printf("Enter length of Rec: \n");
     scanf("%d",&l);
     printf("Enter Width of Rec: \n");
     scanf("%d",&w);
